@@ -1,4 +1,6 @@
 ---
+cms_exclude: true
+
 # Homepage
 type: widget_page
 

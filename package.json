@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "html-validate": "^7.1.1",
+    "html-validate-markdown": "^3.0.0"
+  }
+}

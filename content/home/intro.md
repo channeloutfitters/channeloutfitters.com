@@ -1,4 +1,6 @@
 ---
+cms_exclude: true
+
 widget: blank
 headless: true
 weight: 10

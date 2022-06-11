@@ -1,4 +1,6 @@
 ---
+cms_exclude: true
+
 # Display name
 title: Holly Channel
 
