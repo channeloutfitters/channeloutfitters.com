@@ -1,0 +1,25 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: About Us
+    url: '/outfitters/'
+    weight: 10
+  - name: Fly Fishing
+    url: '/flyfishing/'
+    weight: 20
+  - name: Hunting
+    url: '/hunting/'
+    weight: 30
+  - name: Links
+    url: '/links/'
+    weight: 40
+  - name: Gallery
+    url: '/gallery/'
+    weight: 50
+  - name: Blog
+    url: '/post/'
+    weight: 60
+  

@@ -1,0 +1,11 @@
+---
+title: "Bow Season"
+date: "2020-12-22"
+
+tags: 
+  - "bow-hunts"
+  - "hunting-montana"
+
+---
+
+Such a great time of year. The fishing gets better. The first hunts of the year happen. Eastern Montana is a special place in September. The range is always dry this time of year but usually the fall brings some much needed rain. The colors start to change and the green hay fields stand out against the dead grasses. Good times out in the Big Sky.
