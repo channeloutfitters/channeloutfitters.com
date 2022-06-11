@@ -1,0 +1,16 @@
+# Theme metadata
+name = "Channel"
+
+[light]
+  # Primary
+  primary = "#A24225"
+
+  # Menu
+  menu_primary = "#FFFFFF"
+  menu_text = "#222222"
+  menu_text_active = "#A24225"
+  menu_title = "#FFFFFF"
+
+  # Home sections
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(247, 247, 247)"

@@ -14,7 +14,7 @@ weight: 30
 active: true
 
 title: Recent Posts
-subtitle:
+subtitle: 
 
 content:
   # Filter on criteria
@@ -37,6 +37,6 @@ content:
 
 design:
   # Choose a view for the listings:
-  view: compact
+  view: 2
   columns: '1'
 ---

@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: channel
   theme_night: 
   font: minimal
-  font_size: xl
+  font_size: l
 
 # SEO
 
