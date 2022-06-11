@@ -11,6 +11,8 @@ tags:
   - "trophy-mule-deer-hunts"
   - "whitetail-hunts"
 
+image:
+  filename: featured.jpg
 ---
 
 Well, another hunting season is over and just like that the preparations begin for next season. The demand for these Mule Deer hunts is really becoming crazy! To add to the hysteria, we now have guaranteed tags again, that's right guaranteed! Going forward, if you book with a licensed outfitter in Montana, you will receive a preference point. You will then purchase another when you apply. Done deal! You can now make for sure plans for next season.

@@ -8,6 +8,8 @@ tags:
   - "montana-rut-hunts"
   - "trophy-mule-deer-hunts"
 
+image:
+  filename: featured.jpg
 ---
 
 This hunt takes place in mid November. You except good hunting during this time of year due to the rut. I was in between hunts and just hanging out at our ranch house, glassing some hay meadows. We had around 22 does coming in and out of the fields within view from the house. I had not seen a big buck with these deer yet this year.

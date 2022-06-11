@@ -8,6 +8,8 @@ tags:
   - "montana-rut-hunts"
   - "trophy-mule-deer-hunts"
 
+image:
+  filename: featured.jpg
 ---
 
 A good guy named Patrick was my first guided hunt of the season. Patrick is one of my fishing clients who likes to fish with his young kids. The hunting trip was for Patrick to enjoy his first Mule Deer hunt. After his arrival I could tell Patrick did some research and was packing all the right gear. Day one found us covering some ground and glassing up plenty of deer. The doe population is at a all time high. We spotted many bucks as well, maybe 20. The bigger bucks on the first day were those kind that are still one year away from being shooters on our ranches. Some deer were tempting but I knew we could do better.

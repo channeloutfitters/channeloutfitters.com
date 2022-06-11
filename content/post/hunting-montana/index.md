@@ -10,6 +10,8 @@ tags:
   - "montana-mule-deer-hunts"
   - "trophy-mule-deer-hunts"
 
+image:
+  filename: featured.jpg
 ---
 
 Well, after my last post that was mostly a negative rant about nothing. I have this to offer. Great things ahead for the outfitters in Montana. New laws passed recently will really help the struggle of getting tags for clients. Tags are hard to get everywhere, but now you have a for sure shot if you book with an outfitter in Montana. If you book with an outfitter here, you will receive one preference point, you will purchase another when applying. So, now you can plan on your hunt!

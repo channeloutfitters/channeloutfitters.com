@@ -8,6 +8,8 @@ tags:
   - "montana-rut-hunts"
   - "trophy-mule-deer-hunts"
 
+image:
+  filename: featured.jpg
 ---
 
 Hunting has changed a lot over the last few years. Nowadays if you want to have a quality hunt you must plan ahead. Just to draw a tag in the western states requires some planning. The first thing you need is a tag, the second thing you need is time. Money could be the answer to both the tag and the time restraints. Most of us hunters have to plan well in advance and save for that special hunt.

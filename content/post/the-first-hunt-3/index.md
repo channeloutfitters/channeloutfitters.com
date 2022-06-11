@@ -9,6 +9,8 @@ tags:
   - "montana-rut-hunts"
   - "trophy-mule-deer-hunts"
 
+image:
+  filename: featured.jpg
 ---
 
 I've been doing these hunt recaps for a few years now, I have been told they are wildly popular. So here we go. The first hunt was with a cool guy named Keith. Keith is a guy I met while fishing on the Mighty Missouri River. Keith and his friends actually lease a large ranch in Eastern Montana but have never really killed any big bucks.

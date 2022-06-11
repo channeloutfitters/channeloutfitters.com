@@ -9,6 +9,8 @@ tags:
   - "montana-rut-hunts"
   - "trophy-mule-deer-hunts"
 
+image:
+  filename: featured.jpg
 ---
 
 The return of the wildly popular hunt stories, here we go. This one is about a great white hunter named Easy E. aka Eric. Eric killed the giant of all giants the year before, this year we just wanted to get a good deer and have fun. I booked Eric in at a new ranch we got in Northeast Montana. I had to see for myself if this place was worth the cost. I guided four hunts there.

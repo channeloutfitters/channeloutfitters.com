@@ -6,6 +6,8 @@ tags:
   - "fly-fishing-montana"
   - "missouri-river"
 
+image:
+  filename: featured.jpg
 ---
 
 May is a great time to fish Montana's Missouri River. We are on the verge of a large caddis hatch along with a some sizable drakes. The water volume is at the upper limits for the fish to rise well but I've seen some big fish rise in the past with similar conditions.

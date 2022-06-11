@@ -9,6 +9,8 @@ tags:
   - "montana-rut-hunts"
   - "trophy-mule-deer-hunts"
 
+image:
+  filename: featured.jpg
 ---
 
 It's that time of year when serious mule deer hunters are making some plans. Laying awake thinking of Where to go. When to go, what tags can I draw? If you don't have the points to draw your dream tag, do you throw down on a guided hunt? Yes! That is exactly what you do! Throw caution to the wind and sign up.

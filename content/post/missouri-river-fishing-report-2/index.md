@@ -6,6 +6,8 @@ tags:
   - "fly-fishing-montana"
   - "missouri-river"
 
+image:
+  filename: featured.jpg
 ---
 
 The fishing has been pretty good! Not the best dry fly bite but some trico eaters can be found daily. The hopper bite can be day to day. Hoppers can be stellar in the clouds.

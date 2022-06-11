@@ -6,6 +6,8 @@ tags:
   - "fly-fishing-montana"
   - "missouri-river"
 
+image:
+  filename: featured.jpg
 ---
 
 The title says it all. I like to try for the really big fish! If I have a day off, I fish with like minded buddy's who know how to row. If I can't throw dry's because of high or off color water I love to throw the streamers. The fishing so far this season has been inconsistent. Rain storms at the wrong time are the biggest problem at the moment. Most of Montana's rivers are still high do to run-off.

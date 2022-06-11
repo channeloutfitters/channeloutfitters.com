@@ -6,6 +6,8 @@ tags:
   - "hunting-montana"
   - "montana-bird-hunting"
 
+image:
+  filename: featured.jpg
 ---
 
 

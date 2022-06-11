@@ -8,6 +8,8 @@ tags:
   - "montana-mule-deer-hunts"
   - "montana-rut-hunts"
 
+image:
+  filename: featured.jpg
 ---
 
 This is the tale of a really good hunt I guided last season. The hunters are some clients who had hunted with me several times in the past, they had not yet hunted this new wonderland I found up north. Mark and Melody are really a guides dream, they are fit, they hunt for the experience. If you ever thought about going on a long walk to expslore a new area, these two will go. This is the story about a amazing few days.

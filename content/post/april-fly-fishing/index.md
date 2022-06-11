@@ -6,6 +6,8 @@ tags:
   - "fly-fishing-montana"
   - "missouri-river"
 
+image:
+  filename: featured.jpg
 ---
 
  

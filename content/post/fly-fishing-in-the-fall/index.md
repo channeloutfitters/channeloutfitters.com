@@ -8,6 +8,8 @@ tags:
   - "missouri-river-fishing-report"
   - "montanas-missouri-river"
 
+image:
+  filename: featured.jpg
 ---
 
 After a hot summer with low water conditions we have made the transition into cooler weather. Along with the cooler air and shorter days the water temps are going down. Trout get real active during these times! The fall brings on a way better fish bite than the dog days of summer. The fish start to eat more often and for longer periods of the day. The fish also start to fight harder when hooked. The water temps will come back through that mid fifty degree zone, fish fight the hardest around 55 to 58.

@@ -6,6 +6,8 @@ tags:
   - "fly-fishing-montana"
   - "missouri-river"
 
+image:
+  filename: featured.jpg
 ---
 
 May all of your fish be big browns trout!

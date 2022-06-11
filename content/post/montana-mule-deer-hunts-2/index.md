@@ -10,6 +10,8 @@ tags:
   - "mule-deer"
   - "trophy-mule-deer-hunts"
 
+image:
+  filename: featured.jpg
 ---
 
 We where hopeful going into this season that the Trophy Mule Deer grew some good horns. We started out with some really good Montana Bucks but slowly started to realize that the drought conditions have impacted the horn growth and more importantly the physical condition of the animals. Our area has many crops, even though the crops failed they have much needed food for the deer. Perhaps the bigger issue might be lack of water. I think that deer have traveled to more remote areas for water or any green food source, both are in short supply!

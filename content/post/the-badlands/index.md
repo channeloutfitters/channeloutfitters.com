@@ -9,6 +9,8 @@ tags:
   - "montana-rut-hunts"
   - "trophy-mule-deer-hunts"
 
+image:
+  filename: featured.jpg
 ---
 
 The second installment of the 2015 hunt stories starts now. The hunter is Eric, aka "Easy E. We have been hunting together for several straight years. Eric comes with a great attitude and is always ready to shoot! We are always looking for an older deer, something to be proud of! This year it happened on day 2.

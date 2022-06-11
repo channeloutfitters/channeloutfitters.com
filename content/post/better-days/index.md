@@ -6,6 +6,8 @@ tags:
   - "fly-fishing-montana"
   - "missouri-river"
 
+image:
+  filename: featured.jpg
 ---
 
 The photo in this post is of yours truly holding a great trout. The fish was caught on a guides day off last season, maybe it was August. I was fishing with friend and long time Canadian outfitters Dave Brown. We thought we could have a few fish eat the hopper or at least drink a few beers and avoid laundry day. About half way through the float I was up to fish.

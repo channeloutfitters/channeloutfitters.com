@@ -11,6 +11,8 @@ tags:
   - "powder-river-montana"
   - "trophy-mule-deer-hunts"
 
+image:
+  filename: featured.jpg
 ---
 
 We are fortunate here in Montana. We can hunt Mule Deer during the entire rut. This is a rare thing now days, most states don't allow it, or it takes too many points to draw. That being said, we kill some dandy bucks before the rut even starts. This big buck in the picture was taken early.
