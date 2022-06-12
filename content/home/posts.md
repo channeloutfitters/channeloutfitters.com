@@ -13,9 +13,8 @@ weight: 30
 
 active: true
 
-title: Recent Posts
+title: 
 subtitle: 
-
 content:
   # Filter on criteria
   filters:
@@ -34,9 +33,11 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+  archive: 
+    enable: false
 
 design:
   # Choose a view for the listings:
-  view: 2
+  view: showcase
   columns: '1'
 ---

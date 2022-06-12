@@ -20,7 +20,7 @@ marketing:
     org_name: Channel Outfitters
     description: Montana's premier outfitter. We specialize in high quality fly fishing trips and mule deer hunts.
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-MC4WS5RK6X'
     baidu_tongji: ''
   verification:
     google: ''
