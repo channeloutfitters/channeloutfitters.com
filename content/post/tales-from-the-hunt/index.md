@@ -2,7 +2,7 @@
 title: "Tales From The Hunt"
 date: "2020-12-21"
 
-tags: 
+tags:
   - "eastern-montana-mule-deer-hunts"
   - "hunting-montana"
   - "montana-rut-hunts"
@@ -11,8 +11,6 @@ tags:
 image:
   filename: featured.jpg
 ---
-
-
 
 This is the tale of Mark's hunt. Mark booked a 2 on 1 hunt with his 74-year-old father in mind. The plan was to get his father Gene a buck first then Mark would hunt. We had some close call and a few missed opportunities that led up to the last day or so of this hunt. After Gene collected a real nice deer it was Marks turn. We were looking for a great buck we spotted a few days back. As we glassed the general area, no luck finding the big one. As we entered a another drainage, we spotted 15 does hanging out around a hay stack. After closer inspection, I noticed a deer I had passed up last year. This buck was now of age and was a big bodied o-l boy.
 

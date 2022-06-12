@@ -2,7 +2,7 @@
 title: "Spring Deal"
 date: "2021-03-16"
 
-tags: 
+tags:
   - "fly-fishing-montana"
   - "fly-fishing-the-mo"
   - "missouri-river-fishing-report"

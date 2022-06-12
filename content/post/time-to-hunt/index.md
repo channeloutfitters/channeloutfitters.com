@@ -2,7 +2,7 @@
 title: "Time To Hunt"
 date: "2016-10-26"
 
-tags: 
+tags:
   - "eastern-montana-mule-deer-hunts"
   - "hunting-montana"
   - "montana-rut-hunts"

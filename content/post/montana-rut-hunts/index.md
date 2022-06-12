@@ -2,7 +2,7 @@
 title: "Montana Rut Hunts"
 date: "2016-12-18"
 
-tags: 
+tags:
   - "eastern-montana-mule-deer-hunts"
   - "hunting-montana"
   - "miles-city-montana-mule-deer-hunts"

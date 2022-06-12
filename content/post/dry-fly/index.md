@@ -2,7 +2,7 @@
 title: "Dry Fly"
 date: "2016-06-09"
 
-tags: 
+tags:
   - "fly-fishing-montana"
   - "missouri-river"
 ---

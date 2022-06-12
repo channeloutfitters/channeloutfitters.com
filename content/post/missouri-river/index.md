@@ -2,7 +2,7 @@
 title: "Missouri River"
 date: "2020-12-21"
 
-tags: 
+tags:
   - "fly-fishing-montana"
   - "missouri-river"
 

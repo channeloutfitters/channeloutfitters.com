@@ -12,7 +12,7 @@ active: true
 weight: 120
 
 title: Popular Topics
-subtitle: ''
+subtitle: ""
 
 content:
   # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)

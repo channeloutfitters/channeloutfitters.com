@@ -2,7 +2,7 @@
 title: "Streamer Fishing"
 date: "2021-04-13"
 
-tags: 
+tags:
   - "fly-fishing-montana"
   - "missouri-river-fishing-report"
   - "missouri-river-fly-fishing-guides"

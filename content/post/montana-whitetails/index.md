@@ -2,7 +2,7 @@
 title: "Montana Whitetails"
 date: "2020-12-21"
 
-tags: 
+tags:
   - "eastern-montana-mule-deer-hunts"
   - "hunting-montana"
   - "montana-rut-hunts"
@@ -11,8 +11,6 @@ tags:
 image:
   filename: featured.jpg
 ---
-
- 
 
 
 

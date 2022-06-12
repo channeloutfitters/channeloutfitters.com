@@ -1,7 +1,7 @@
 ---
 title: "The Last Best Place"
 date: "2021-09-26"
-tags: 
+tags:
   - "eastern-montana-mule-deer-hunts"
   - "fly-fishing-montana"
   - "hunting-montana"

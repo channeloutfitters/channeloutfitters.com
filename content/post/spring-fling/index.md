@@ -2,7 +2,7 @@
 title: "Spring Fling"
 date: "2016-05-01"
 
-tags: 
+tags:
   - "fly-fishing-montana"
   - "missouri-river"
 

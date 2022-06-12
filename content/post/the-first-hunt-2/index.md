@@ -2,7 +2,7 @@
 title: "The First Hunt"
 date: "2016-12-08"
 
-tags: 
+tags:
   - "eastern-montana-mule-deer-hunts"
   - "hunting-montana"
   - "montana-rut-hunts"

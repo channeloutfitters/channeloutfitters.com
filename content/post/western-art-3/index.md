@@ -1,7 +1,7 @@
 ---
 title: "Western Art"
 date: "2015-02-22"
-tags: 
+tags:
   - "western-art"
   - "western-oil-paintings"
 ---

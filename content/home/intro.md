@@ -7,11 +7,9 @@ weight: 10
 title: Montana's premier outfitter.
 design:
   columns: "1"
-
 ---
 
 <img class="center-block img-responsive" height="640" width="480" alt="Channel Outfitters" src="/media/sharing.svg" />
-
 
 ## What you can expect
 

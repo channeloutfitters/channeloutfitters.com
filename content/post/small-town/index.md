@@ -1,7 +1,7 @@
 ---
 title: "Small Town"
 date: "2015-06-02"
-tags: 
+tags:
   - "fly-fishing-montana"
   - "hunting-montana"
   - "missouri-river"

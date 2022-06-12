@@ -1,7 +1,7 @@
 ---
 title: "Missouri River Fly-Fishing Report"
 date: "2022-05-18"
-tags: 
+tags:
   - "fly-fishing-montana"
   - "missouri-river"
   - "missouri-river-fishing-report"

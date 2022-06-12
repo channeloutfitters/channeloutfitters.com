@@ -2,7 +2,7 @@
 title: "End Of Season"
 date: "2020-12-22"
 
-tags: 
+tags:
   - "eastern-montana-mule-deer-hunts"
   - "hunting-montana"
   - "montana-rut-hunts"

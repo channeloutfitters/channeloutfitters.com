@@ -10,7 +10,6 @@ superuser: true
 # Role/position
 role: Guide | Owner
 
-
 # Short bio (displayed in user profile at end of posts)
 bio: "Lindsey started guiding professionally in 1989. After guiding 10 years for some of Alaska’s finest lodges, he formed Channel Outfitters of Montana. He has over 2,000 days guiding fly fishermen and hundreds of days guiding hunters."
 

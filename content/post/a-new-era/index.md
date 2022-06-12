@@ -2,7 +2,7 @@
 title: "A New Era"
 date: "2015-01-29"
 
-tags: 
+tags:
   - "eastern-montana-mule-deer-hunts"
   - "hunting-montana"
   - "montana-rut-hunts"

@@ -2,7 +2,7 @@
 title: "Missouri River In June"
 date: "2021-06-07"
 
-tags: 
+tags:
   - "missouri-river"
   - "missouri-river-fishing-report"
   - "missouri-river-fly-fishing-guides"

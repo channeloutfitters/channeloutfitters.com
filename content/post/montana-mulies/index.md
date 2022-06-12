@@ -2,7 +2,7 @@
 title: "Montana Mulies"
 date: "2020-12-21"
 
-tags: 
+tags:
   - "eastern-montana-mule-deer-hunts"
   - "hunting-montana"
   - "montana-rut-hunts"

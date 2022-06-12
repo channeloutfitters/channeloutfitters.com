@@ -2,7 +2,7 @@
 title: "Time To Fish"
 date: "2017-03-28"
 
-tags: 
+tags:
   - "fly-fishing-montana"
   - "missouri-river"
 

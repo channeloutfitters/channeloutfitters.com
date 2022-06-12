@@ -1,7 +1,7 @@
 ---
 title: "Merry Christmas"
 date: "2016-12-22"
-tags: 
+tags:
   - "fly-fishing-montana"
   - "hunting-montana"
 

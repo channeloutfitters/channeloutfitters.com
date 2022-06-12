@@ -2,7 +2,7 @@
 title: "Montana Big Buck Stories"
 date: "2020-12-22"
 
-tags: 
+tags:
   - "eastern-montana-mule-deer-hunts"
   - "hunting-montana"
   - "miles-city-montana-mule-deer-hunts"

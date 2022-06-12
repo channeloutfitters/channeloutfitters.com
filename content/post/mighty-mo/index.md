@@ -2,7 +2,7 @@
 title: "Mighty Mo"
 date: "2015-08-10"
 
-tags: 
+tags:
   - "fly-fishing-montana"
   - "missouri-river"
 

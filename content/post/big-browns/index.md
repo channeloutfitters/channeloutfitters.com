@@ -2,7 +2,7 @@
 title: "Big Browns"
 date: "2016-07-06"
 
-tags: 
+tags:
   - "fly-fishing-montana"
   - "missouri-river"
 

@@ -3,7 +3,7 @@ widget: blank
 title: "Seasoned Professional Guides"
 weight: 10
 design:
-    columns: '1'
+  columns: "1"
 ---
 
 ![Expert Guides](images/expert-guides.jpg)

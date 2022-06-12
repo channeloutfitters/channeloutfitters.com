@@ -3,7 +3,7 @@ widget: blank
 title: "Bitterroot River"
 weight: 30
 design:
-    columns: '1'
+  columns: "1"
 ---
 
 ![Bitterroot River](images/bitterroot-river.png)

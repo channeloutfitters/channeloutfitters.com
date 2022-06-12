@@ -2,7 +2,7 @@
 title: "Tis The Season"
 date: "2015-12-03"
 
-tags: 
+tags:
   - "hunting-montana"
   - "trophy-mule-deer-hunts"
 

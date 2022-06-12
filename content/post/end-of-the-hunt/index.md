@@ -2,7 +2,7 @@
 title: "End Of The Hunt"
 date: "2020-12-23"
 
-tags: 
+tags:
   - "eastern-montana-mule-deer-hunts"
   - "montana-mule-deer-hunts"
 

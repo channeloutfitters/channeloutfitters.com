@@ -2,7 +2,7 @@
 title: "Spring Fly Fishing"
 date: "2015-04-09"
 
-tags: 
+tags:
   - "fly-fishing-montana"
   - "missouri-river"
 

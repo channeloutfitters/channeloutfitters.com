@@ -2,7 +2,7 @@
 title: "August Does Not Suck"
 date: "2016-08-12"
 
-tags: 
+tags:
   - "fly-fishing-montana"
   - "missouri-river"
 

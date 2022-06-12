@@ -2,7 +2,7 @@
 title: "The Badlands"
 date: "2015-12-17"
 
-tags: 
+tags:
   - "eastern-montana-mule-deer-hunts"
   - "hunting-montana"
   - "miles-city-montana-mule-deer-hunts"

@@ -1,7 +1,7 @@
 ---
 title: "Montana License Deadline"
 date: "2022-02-28"
-tags: 
+tags:
   - "eastern-montana-mule-deer-hunts"
   - "miles-city-montana-mule-deer-hunts"
   - "montana-elk-hunts"

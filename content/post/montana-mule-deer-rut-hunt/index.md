@@ -2,7 +2,7 @@
 title: "Montana Mule Deer Rut Hunt"
 date: "2017-01-07"
 
-tags: 
+tags:
   - "eastern-montana-mule-deer-hunts"
   - "hunting-montana"
   - "montana-rut-hunts"

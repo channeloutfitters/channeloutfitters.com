@@ -2,7 +2,7 @@
 title: "Mighty Slow"
 date: "2015-08-24"
 
-tags: 
+tags:
   - "fly-fishing-montana"
   - "missouri-river"
 

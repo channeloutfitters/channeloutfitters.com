@@ -1,7 +1,7 @@
 ---
 title: "Montana Mule Deer Hunts"
 date: "2021-11-15"
-tags: 
+tags:
   - "eastern-montana-mule-deer-hunts"
   - "miles-city-montana-mule-deer-hunts"
   - "montana-mule-deer-hunts"

@@ -15,9 +15,9 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-  
+
   phone: +1-406-261-2772
-  
+
   # Social Links
   contact_links:
     - icon: facebook
@@ -30,5 +30,5 @@ content:
     netlify:
       captcha: true
 design:
-  columns: '1'
+  columns: "1"
 ---

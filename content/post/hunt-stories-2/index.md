@@ -2,7 +2,7 @@
 title: "Hunt Stories"
 date: "2015-01-14"
 
-tags: 
+tags:
   - "eastern-montana-mule-deer-hunts"
   - "hunting-montana"
   - "miles-city-montana-mule-deer-hunts"

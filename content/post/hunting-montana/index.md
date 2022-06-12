@@ -1,7 +1,7 @@
 ---
 title: "Hunting Montana"
 date: "2022-02-17"
-tags: 
+tags:
   - "big-montana-elk"
   - "bow-hunting-montana"
   - "eastern-montana-mule-deer-hunts"

@@ -2,7 +2,7 @@
 title: "June"
 date: "2016-06-01"
 
-tags: 
+tags:
   - "fly-fishing-montana"
   - "missouri-river"
 ---

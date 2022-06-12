@@ -2,7 +2,7 @@
 title: "August Fishing Report"
 date: "2015-08-08"
 
-tags: 
+tags:
   - "fly-fishing-montana"
   - "missouri-river"
 

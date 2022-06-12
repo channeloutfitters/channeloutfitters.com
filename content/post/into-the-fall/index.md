@@ -2,7 +2,7 @@
 title: "Into The Fall"
 date: "2020-09-14"
 
-tags: 
+tags:
   - "fly-fishing-montana"
   - "missouri-river"
 

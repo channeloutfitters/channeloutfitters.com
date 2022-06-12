@@ -1,7 +1,7 @@
 ---
 title: "Mule Deer"
 date: "2022-02-03"
-tags: 
+tags:
   - "eastern-montana-mule-deer-hunts"
   - "montana-mule-deer-hunts"
   - "montana-rut-hunts"

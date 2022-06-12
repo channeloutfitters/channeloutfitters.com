@@ -2,7 +2,7 @@
 title: "In The Hunt"
 date: "2015-02-05"
 
-tags: 
+tags:
   - "eastern-montana-mule-deer-hunts"
   - "hunting-montana"
   - "montana-rut-hunts"

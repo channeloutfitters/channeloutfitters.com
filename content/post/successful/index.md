@@ -1,7 +1,7 @@
 ---
 title: "Successful"
 date: "2022-04-19"
-tags: 
+tags:
   - "big-montana-elk"
   - "bull-mountaian-elk"
   - "eastern-montana-mule-deer-hunts"

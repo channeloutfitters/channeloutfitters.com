@@ -2,7 +2,7 @@
 title: "The First Hunt Of The Season"
 date: "2019-12-23"
 
-tags: 
+tags:
   - "eastern-montana-mule-deer-hunts"
   - "hunting-montana"
   - "montana-rut-hunts"

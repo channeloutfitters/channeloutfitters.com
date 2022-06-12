@@ -2,7 +2,7 @@
 title: "Butterscotch Chronicles"
 date: "2015-05-01"
 
-tags: 
+tags:
   - "fly-fishing-montana"
   - "missouri-river"
 

@@ -1,7 +1,7 @@
 ---
 title: "Hunting The Rut"
 date: "2022-01-16"
-tags: 
+tags:
   - "big-bucks-of-northern-montana"
   - "big-montana-bucks"
   - "eastern-montana-mule-deer-hunts"

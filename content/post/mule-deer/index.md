@@ -2,7 +2,7 @@
 title: "Mule Deer"
 date: "2020-12-22"
 
-tags: 
+tags:
   - "eastern-montana-mule-deer-hunts"
   - "hunting-montana"
   - "miles-city-montana-mule-deer-hunts"
@@ -12,8 +12,6 @@ tags:
 image:
   filename: featured.jpg
 ---
-
-
 
 Gene from Wisconsin shot this fine-looking mule deer. We had an encounter with the buck earlier that day but bumped him. The buck and several other deer moved to about 2 miles away and bedded down in some wide open terrain. The deer was in a spot that was unapproachable! I decided the only thing to do was wait for the deer to return to the food source we bumped them out of earlier in the hunt.
 

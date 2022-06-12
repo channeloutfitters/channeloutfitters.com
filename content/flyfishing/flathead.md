@@ -3,7 +3,7 @@ widget: blank
 title: "FlatHead River"
 weight: 50
 design:
-    columns: '1'
+  columns: "1"
 ---
 
 ![Flathead River](images/fall-on-the-flathead-river-polebridge-montana.jpg)

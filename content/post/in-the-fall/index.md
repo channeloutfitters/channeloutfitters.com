@@ -2,7 +2,7 @@
 title: "In The Fall"
 date: "2015-09-15"
 
-tags: 
+tags:
   - "eastern-montana-mule-deer-hunts"
   - "hunting-montana"
   - "montana-rut-hunts"

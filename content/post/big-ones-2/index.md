@@ -2,7 +2,7 @@
 title: "Big Ones"
 date: "2015-07-28"
 
-tags: 
+tags:
   - "fly-fishing-montana"
   - "missouri-river"
 

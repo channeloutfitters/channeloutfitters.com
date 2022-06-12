@@ -2,7 +2,7 @@
 title: "The First Hunt"
 date: "2015-12-11"
 
-tags: 
+tags:
   - "eastern-montana-mule-deer-hunts"
   - "hunting-montana"
   - "miles-city-montana-mule-deer-hunts"

@@ -10,7 +10,6 @@ superuser: false
 # Role/position
 role: Guide | Owner
 
-
 # Short bio (displayed in user profile at end of posts)
 bio: "Holly is a second-generation outfitter and a very accomplished fly fisher and hunter in her own right. She loves to dry fly fish on the Missouri River and big game hunt in Eastern Montana. Holly is always ready to take your calls and answer questions when Lindsey is out on the road!"
 

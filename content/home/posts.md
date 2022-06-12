@@ -13,17 +13,17 @@ weight: 30
 
 active: true
 
-title: 
-subtitle: 
+title:
+subtitle:
 content:
   # Filter on criteria
   filters:
     folders:
       - post
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
+    tag: ""
+    category: ""
+    publication_type: ""
+    author: ""
     exclude_featured: true
     exclude_future: false
     exclude_past: false
@@ -33,11 +33,11 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
-  archive: 
+  archive:
     enable: false
 
 design:
   # Choose a view for the listings:
   view: showcase
-  columns: '1'
+  columns: "1"
 ---

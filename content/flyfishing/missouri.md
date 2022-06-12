@@ -3,7 +3,7 @@ widget: blank
 title: "Missouri River"
 weight: 20
 design:
-    columns: '1'
+  columns: "1"
 ---
 
 ![Missouri River](images/missouri-river.jpg)

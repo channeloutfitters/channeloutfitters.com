@@ -2,7 +2,7 @@
 title: "Streamer Time"
 date: "2015-04-16"
 
-tags: 
+tags:
   - "fly-fishing-montana"
   - "missouri-river"
 ---

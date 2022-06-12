@@ -2,12 +2,10 @@
 title: "Merry Christmas"
 date: "2015-12-24"
 
-tags: 
+tags:
   - "hunting-montana"
   - "montana-bird-hunting"
 
 image:
   filename: featured.jpg
 ---
-
-

@@ -2,7 +2,7 @@
 title: "Bow Season"
 date: "2020-12-22"
 
-tags: 
+tags:
   - "bow-hunts"
   - "hunting-montana"
 

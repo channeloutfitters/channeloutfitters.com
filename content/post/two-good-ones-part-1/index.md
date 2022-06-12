@@ -2,7 +2,7 @@
 title: "Two Good Ones Part 1"
 date: "2021-01-31"
 
-tags: 
+tags:
   - "eastern-montana-mule-deer-hunts"
   - "miles-city-montana-mule-deer-hunts"
   - "montana-mule-deer-hunts"

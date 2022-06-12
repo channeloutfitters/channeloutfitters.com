@@ -2,7 +2,7 @@
 title: "Hunting Eastern Montana"
 date: "2021-01-08"
 
-tags: 
+tags:
   - "eastern-montana-mule-deer-hunts"
   - "hunting-montana"
   - "miles-city-montana-mule-deer-hunts"

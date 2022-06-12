@@ -3,8 +3,7 @@ widget: blank
 title: "Trophy Pronghorn Antelope"
 weight: 30
 design:
-    columns: '1'
-
+  columns: "1"
 ---
 
 ![Trophy Pronghorn](images/trophy-pronghorn.jpg)

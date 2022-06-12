@@ -2,7 +2,7 @@
 title: "Part 2"
 date: "2021-03-12"
 
-tags: 
+tags:
   - "eastern-montana-mule-deer-hunts"
   - "miles-city-montana-mule-deer-hunts"
   - "montana-mule-deer-hunts"

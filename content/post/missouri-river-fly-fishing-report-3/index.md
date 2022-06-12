@@ -2,7 +2,7 @@
 title: "Missouri River Fly Fishing Report"
 date: "2016-07-01"
 
-tags: 
+tags:
   - "fly-fishing-montana"
   - "missouri-river"
 
