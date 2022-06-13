@@ -1,15 +1,56 @@
 {
-  "dependencies": {
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged",
+      "pre-push": "lint-staged"
+    }
+  },
+  "scripts": {
+    "prepare": "husky install",
+    "precommit": "lint-staged"
+  },
+  "lint-staged": {
+    "*.md": [
+      "prettier --parser markdown --write"
+    ]
+  },
+  "cspell": {
+    "ignoreWords": [
+      "baetis",
+      "Beartrap",
+      "Bozeman",
+      "callout",
+      "dryflies",
+      "dryfly",
+      "Gallatin",
+      "Hebgen",
+      "humpys",
+      "Lamson",
+      "Layson",
+      "Maddy",
+      "monials",
+      "Noonan",
+      "nymphing",
+      "salmonflies",
+      "salmonfly",
+      "spey",
+      "stimulators",
+      "testi",
+      "trevally",
+      "trico",
+      "Tricos",
+      "Vanderpool",
+      "wulffs",
+      "wowchemy",
+      "wowchemycms"
+    ]
+  },
+  "devDependencies": {
+    "cspell": "^6.1.2",
     "html-validate": "^7.1.1",
     "html-validate-markdown": "^3.0.0",
     "husky": "^8.0.1",
     "lint-staged": "^13.0.1",
     "prettier": "^2.6.2"
-  },
-  "scripts": {
-    "precommit": "lint-staged"
-  },
-  "lint-staged": {
-    "*.md": ["prettier --parser markdown --write", "git add"]
   }
 }
