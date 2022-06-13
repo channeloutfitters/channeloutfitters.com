@@ -15,7 +15,7 @@ image:
 
 The return of the wildly popular hunt stories, here we go. This one is about a great white hunter named Easy E. aka Eric. Eric killed the giant of all giants the year before, this year we just wanted to get a good deer and have fun. I booked Eric in at a new ranch we got in Northeast Montana. I had to see for myself if this place was worth the cost. I guided four hunts there.
 
-As usual, when Eric drives over from Oregon the weather gods try to kill his spirit. Upon arrival a artic blizzard appears, yeah for Eric. The first day of the hunt dawned with 7 inches of snow and -25 temps. It was to cold to walk much as the wind chill was, well chilly! The next few days the wind mellowed out making conditions a little better for some walking and stalking.
+As usual, when Eric drives over from Oregon the weather gods try to kill his spirit. Upon arrival a arctic blizzard appears, yeah for Eric. The first day of the hunt dawned with 7 inches of snow and -25 temps. It was to cold to walk much as the wind chill was, well chilly! The next few days the wind mellowed out making conditions a little better for some walking and stalking.
 
 We seen some nice deer, a lot of young up and comers. I was impressed with the place! Eric had killed a 190 inch deer the year before, making it easy to pass on young 4x4s. On about his 3 day we were riding around complaining about the fog and sucky weather. visibility was about a quarter-mile, not helping confidence!
 

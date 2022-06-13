@@ -12,7 +12,7 @@ image:
   filename: featured.jpg
 ---
 
-This is the tale of a really good hunt I guided last season. The hunters are some clients who had hunted with me several times in the past, they had not yet hunted this new wonderland I found up north. Mark and Melody are really a guides dream, they are fit, they hunt for the experience. If you ever thought about going on a long walk to expslore a new area, these two will go. This is the story about a amazing few days.
+This is the tale of a really good hunt I guided last season. The hunters are some clients who had hunted with me several times in the past, they had not yet hunted this new wonderland I found up north. Mark and Melody are really a guides dream, they are fit, they hunt for the experience. If you ever thought about going on a long walk to explore a new area, these two will go. This is the story about a amazing few days.
 
 Before the hunters arrived, we had been hit with a big snow storm. The storm had lots of wind causing drifting snow. Travel was difficult at best. The only places you could drive was where the ranchers were feeding livestock. Foot travel was also a challenge, walking through 3 foot drifts will test you! The first day of the hunt found us on a big walk about in a place that we call the stadium. This place is where all the big bucks go to find the ladies. The day was sunny and calm. You could glass up deer from miles away, it was awesome!
 

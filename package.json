@@ -11,7 +11,8 @@
   },
   "lint-staged": {
     "*.md": [
-      "prettier --parser markdown --write"
+      "prettier --parser markdown --write",
+      "cspell"
     ]
   },
   "cspell": {
@@ -43,6 +44,11 @@
       "wulffs",
       "wowchemy",
       "wowchemycms"
+    ],
+    "words": [
+      "binos",
+      "bowhunters",
+      "sucky"
     ]
   },
   "devDependencies": {
