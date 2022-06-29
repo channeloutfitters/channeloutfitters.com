@@ -6,7 +6,7 @@ design:
 weight: 30
 ---
 
-{{< gallery album="hunting" resize_options="253x">}}
+{{< gallery album="hunting" >}}
 
 ---
 

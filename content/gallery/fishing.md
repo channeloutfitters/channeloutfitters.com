@@ -6,7 +6,7 @@ design:
 weight: 20
 ---
 
-{{< gallery album="fishing" resize_options="253x">}}
+{{< gallery album="fishing" >}}
 
 ---
 
