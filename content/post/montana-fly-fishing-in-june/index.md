@@ -9,7 +9,6 @@ tags:
   - FlyFishingMontana
   - MissouriRiverOutfitters
   - OrvisEndorsed
-  - ""
 image:
   filename: featured.jpg
   preview_only: false
