@@ -20,10 +20,10 @@ content:
   filters:
     folders:
       - post
-    tag: ""
-    category: ""
-    publication_type: ""
-    author: ""
+    tag:
+    category:
+    publication_type:
+    author:
     exclude_featured: true
     exclude_future: false
     exclude_past: false

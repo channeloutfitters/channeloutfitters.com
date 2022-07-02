@@ -1,16 +1,14 @@
 ---
-title: "April Fly Fishing"
-date: "2020-12-21"
+title: April Fly Fishing
+date: 2020-12-21T12:00:00.000Z
 
 tags:
-  - "fly-fishing-montana"
-  - "missouri-river"
+  - fly-fishing-montana
+  - missouri-river
 
 image:
   filename: featured.jpg
 ---
-
-
 
 My favorite time to fish is in the spring. Spring brings new hope for all of the hatches to come. Spring brings hope for all those big fish you never caught last year! I prefer the first half of the season more than the second half.
 

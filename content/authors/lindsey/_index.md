@@ -11,7 +11,7 @@ superuser: true
 role: Guide | Owner
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Lindsey started guiding professionally in 1989. After guiding 10 years for some of Alaska’s finest lodges, he formed Channel Outfitters of Montana. He has over 2,000 days guiding fly fishermen and hundreds of days guiding hunters."
+bio: Lindsey started guiding professionally in 1989. After guiding 10 years for some of Alaska’s finest lodges, he formed Channel Outfitters of Montana. He has over 2,000 days guiding fly fishermen and hundreds of days guiding hunters.
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -41,7 +41,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: ""
+# email:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---

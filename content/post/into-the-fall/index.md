@@ -1,10 +1,10 @@
 ---
-title: "Into The Fall"
-date: "2020-09-14"
+title: Into The Fall
+date: 2020-09-14T12:00:00.000Z
 
 tags:
-  - "fly-fishing-montana"
-  - "missouri-river"
+  - fly-fishing-montana
+  - missouri-river
 
 image:
   filename: featured.jpg

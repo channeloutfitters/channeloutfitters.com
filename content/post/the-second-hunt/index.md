@@ -1,12 +1,12 @@
 ---
-title: "The Second Hunt"
-date: "2021-01-05"
+title: The Second Hunt
+date: 2021-01-05T12:00:00.000Z
 
 tags:
-  - "eastern-montana-mule-deer-hunts"
-  - "miles-city-montana-mule-deer-hunts"
-  - "montana-rut-hunts"
-  - "northeast-montana"
+  - eastern-montana-mule-deer-hunts
+  - miles-city-montana-mule-deer-hunts
+  - montana-rut-hunts
+  - northeast-montana
 
 image:
   filename: featured.jpg

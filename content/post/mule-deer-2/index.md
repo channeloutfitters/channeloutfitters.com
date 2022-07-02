@@ -1,12 +1,12 @@
 ---
-title: "Mule Deer"
-date: "2020-12-21"
+title: Mule Deer
+date: 2020-12-21T12:00:00.000Z
 
 tags:
-  - "eastern-montana-mule-deer-hunts"
-  - "hunting-montana"
-  - "montana-rut-hunts"
-  - "trophy-mule-deer-hunts"
+  - eastern-montana-mule-deer-hunts
+  - hunting-montana
+  - montana-rut-hunts
+  - trophy-mule-deer-hunts
 
 image:
   filename: featured.jpg

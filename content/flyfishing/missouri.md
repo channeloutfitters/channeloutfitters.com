@@ -1,6 +1,6 @@
 ---
 widget: blank
-title: "Missouri River"
+title: Missouri River
 weight: 20
 design:
   columns: "1"

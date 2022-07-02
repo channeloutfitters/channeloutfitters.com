@@ -1,9 +1,9 @@
 ---
-title: "Western Art"
-date: "2015-02-22"
+title: Western Art
+date: 2015-02-22T12:00:00.000Z
 tags:
-  - "western-art"
-  - "western-oil-paintings"
+  - western-art
+  - western-oil-paintings
 ---
 
 I've been trying to learn how to oil paint. For some reason I always paint America Indians, specifically Nez Perce. I like to portray the people who lived in the mid to early 1700s. I find the people who lived during this time are most interesting. You can say this is my happy place. Well before the push to tame the west, when people and landscapes were still free. Life was hard back then, but it must of been something to behold. Before guns, when your very life depended on hunting skills. The women of the time also had mad survival skills!

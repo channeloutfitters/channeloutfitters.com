@@ -1,10 +1,10 @@
 ---
-title: "Tis The Season"
-date: "2015-12-03"
+title: Tis The Season
+date: 2015-12-03T12:00:00.000Z
 
 tags:
-  - "hunting-montana"
-  - "trophy-mule-deer-hunts"
+  - hunting-montana
+  - trophy-mule-deer-hunts
 
 image:
   filename: featured.jpg

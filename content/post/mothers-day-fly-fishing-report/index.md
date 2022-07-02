@@ -1,14 +1,14 @@
 ---
-title: "Mothers Day Fly-Fishing Report"
-date: "2021-05-09"
+title: Mothers Day Fly-Fishing Report
+date: 2021-05-09T12:00:00.000Z
 
 tags:
-  - "big-trout"
-  - "fly-fishing-montana"
-  - "fly-fishing-the-mo"
-  - "missouri-river-fishing-report"
-  - "missouri-river-fly-fishing-guides"
-  - "montanas-missouri-river"
+  - big-trout
+  - fly-fishing-montana
+  - fly-fishing-the-mo
+  - missouri-river-fishing-report
+  - missouri-river-fly-fishing-guides
+  - montanas-missouri-river
 
 image:
   filename: featured.jpg

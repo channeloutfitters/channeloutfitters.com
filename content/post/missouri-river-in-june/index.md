@@ -1,12 +1,12 @@
 ---
-title: "Missouri River In June"
-date: "2021-06-07"
+title: Missouri River In June
+date: 2021-06-07T12:00:00.000Z
 
 tags:
-  - "missouri-river"
-  - "missouri-river-fishing-report"
-  - "missouri-river-fly-fishing-guides"
-  - "montanas-missouri-river"
+  - missouri-river
+  - missouri-river-fishing-report
+  - missouri-river-fly-fishing-guides
+  - montanas-missouri-river
 
 image:
   filename: featured.jpg

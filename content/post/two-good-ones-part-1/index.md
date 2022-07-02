@@ -1,12 +1,12 @@
 ---
-title: "Two Good Ones Part 1"
-date: "2021-01-31"
+title: Two Good Ones Part 1
+date: 2021-01-31T12:00:00.000Z
 
 tags:
-  - "eastern-montana-mule-deer-hunts"
-  - "miles-city-montana-mule-deer-hunts"
-  - "montana-mule-deer-hunts"
-  - "montana-rut-hunts"
+  - eastern-montana-mule-deer-hunts
+  - miles-city-montana-mule-deer-hunts
+  - montana-mule-deer-hunts
+  - montana-rut-hunts
 
 image:
   filename: featured.jpg

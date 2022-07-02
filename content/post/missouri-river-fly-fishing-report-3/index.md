@@ -1,10 +1,10 @@
 ---
-title: "Missouri River Fly Fishing Report"
-date: "2016-07-01"
+title: Missouri River Fly Fishing Report
+date: 2016-07-01T12:00:00.000Z
 
 tags:
-  - "fly-fishing-montana"
-  - "missouri-river"
+  - fly-fishing-montana
+  - missouri-river
 
 image:
   filename: featured.jpg

@@ -1,12 +1,12 @@
 ---
-title: "In The Fall"
-date: "2015-09-15"
+title: In The Fall
+date: 2015-09-15T12:00:00.000Z
 
 tags:
-  - "eastern-montana-mule-deer-hunts"
-  - "hunting-montana"
-  - "montana-rut-hunts"
-  - "trophy-mule-deer-hunts"
+  - eastern-montana-mule-deer-hunts
+  - hunting-montana
+  - montana-rut-hunts
+  - trophy-mule-deer-hunts
 
 image:
   filename: featured.jpg

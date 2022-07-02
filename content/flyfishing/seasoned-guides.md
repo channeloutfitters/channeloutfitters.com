@@ -1,6 +1,6 @@
 ---
 widget: blank
-title: "Seasoned Professional Guides"
+title: Seasoned Professional Guides
 weight: 10
 design:
   columns: "1"

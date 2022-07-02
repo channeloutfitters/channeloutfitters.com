@@ -1,10 +1,10 @@
 ---
-title: "Spring Fling"
-date: "2016-05-01"
+title: Spring Fling
+date: 2016-05-01T12:00:00.000Z
 
 tags:
-  - "fly-fishing-montana"
-  - "missouri-river"
+  - fly-fishing-montana
+  - missouri-river
 
 image:
   filename: featured.jpg

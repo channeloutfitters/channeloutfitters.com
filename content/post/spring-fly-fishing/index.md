@@ -1,10 +1,10 @@
 ---
-title: "Spring Fly Fishing"
-date: "2015-04-09"
+title: Spring Fly Fishing
+date: 2015-04-09T12:00:00.000Z
 
 tags:
-  - "fly-fishing-montana"
-  - "missouri-river"
+  - fly-fishing-montana
+  - missouri-river
 
 image:
   filename: featured.jpg

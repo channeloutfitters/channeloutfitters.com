@@ -1,6 +1,6 @@
 ---
 widget: blank
-title: "Bitterroot River"
+title: Bitterroot River
 weight: 30
 design:
   columns: "1"

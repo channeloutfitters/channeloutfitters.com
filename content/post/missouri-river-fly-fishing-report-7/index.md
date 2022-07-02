@@ -1,13 +1,13 @@
 ---
-title: "Missouri River Fly-Fishing Report"
-date: "2022-05-18"
+title: Missouri River Fly-Fishing Report
+date: 2022-05-18T12:00:00.000Z
 tags:
-  - "fly-fishing-montana"
-  - "missouri-river"
-  - "missouri-river-fishing-report"
-  - "montana-fly-fishing-trips"
-  - "montanas-missouri-river"
-  - "orvis-endorsed"
+  - fly-fishing-montana
+  - missouri-river
+  - missouri-river-fishing-report
+  - montana-fly-fishing-trips
+  - montanas-missouri-river
+  - orvis-endorsed
 
 image:
   filename: featured.jpg

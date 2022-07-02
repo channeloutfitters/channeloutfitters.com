@@ -1,6 +1,6 @@
 ---
 widget: blank
-title: "Trophy Pronghorn Antelope"
+title: Trophy Pronghorn Antelope
 weight: 30
 design:
   columns: "1"

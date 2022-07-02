@@ -1,12 +1,12 @@
 ---
-title: "Montana Fly-Fishing"
-date: "2022-05-27"
+title: Montana Fly-Fishing
+date: 2022-05-27T12:00:00.000Z
 tags:
-  - "fly-fishing-montana"
-  - "missouri-river"
-  - "missouri-river-fishing-report"
-  - "montana-fly-fishing-trips"
-  - "montanas-missouri-river"
+  - fly-fishing-montana
+  - missouri-river
+  - missouri-river-fishing-report
+  - montana-fly-fishing-trips
+  - montanas-missouri-river
 
 image:
   filename: featured.jpg

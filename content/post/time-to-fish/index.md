@@ -1,10 +1,10 @@
 ---
-title: "Time To Fish"
-date: "2017-03-28"
+title: Time To Fish
+date: 2017-03-28T12:00:00.000Z
 
 tags:
-  - "fly-fishing-montana"
-  - "missouri-river"
+  - fly-fishing-montana
+  - missouri-river
 
 image:
   filename: featured.jpg

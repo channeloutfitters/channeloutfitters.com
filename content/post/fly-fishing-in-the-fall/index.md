@@ -1,12 +1,12 @@
 ---
-title: "Fly-Fishing In The Fall"
-date: "2021-08-26"
+title: Fly-Fishing In The Fall
+date: 2021-08-26T12:00:00.000Z
 
 tags:
-  - "fly-fishing-montana"
-  - "missouri-river"
-  - "missouri-river-fishing-report"
-  - "montanas-missouri-river"
+  - fly-fishing-montana
+  - missouri-river
+  - missouri-river-fishing-report
+  - montanas-missouri-river
 
 image:
   filename: featured.jpg

@@ -1,6 +1,6 @@
 ---
 widget: blank
-title: "Big Game Hunting"
+title: Big Game Hunting
 weight: 10
 design:
   columns: "1"

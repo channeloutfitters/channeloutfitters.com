@@ -1,10 +1,10 @@
 ---
-title: "May"
-date: "2016-05-26"
+title: May
+date: 2016-05-26T12:00:00.000Z
 
 tags:
-  - "fly-fishing-montana"
-  - "missouri-river"
+  - fly-fishing-montana
+  - missouri-river
 
 image:
   filename: featured.jpg

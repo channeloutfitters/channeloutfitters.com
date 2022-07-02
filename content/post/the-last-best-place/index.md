@@ -1,16 +1,16 @@
 ---
-title: "The Last Best Place"
-date: "2021-09-26"
+title: The Last Best Place
+date: 2021-09-26T12:00:00.000Z
 tags:
-  - "eastern-montana-mule-deer-hunts"
-  - "fly-fishing-montana"
-  - "hunting-montana"
-  - "missouri-river"
-  - "missouri-river-fishing-report"
-  - "montana-mule-deer-hunts"
-  - "montana-rut-hunts"
-  - "montanas-missouri-river"
-  - "trophy-mule-deer-hunts"
+  - eastern-montana-mule-deer-hunts
+  - fly-fishing-montana
+  - hunting-montana
+  - missouri-river
+  - missouri-river-fishing-report
+  - montana-mule-deer-hunts
+  - montana-rut-hunts
+  - montanas-missouri-river
+  - trophy-mule-deer-hunts
 
 image:
   filename: featured.jpg

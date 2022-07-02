@@ -1,13 +1,13 @@
 ---
-title: "Spring Deal"
-date: "2021-03-16"
+title: Spring Deal
+date: 2021-03-16T12:00:00.000Z
 
 tags:
-  - "fly-fishing-montana"
-  - "fly-fishing-the-mo"
-  - "missouri-river-fishing-report"
-  - "missouri-river-fly-fishing-guides"
-  - "montanas-missouri-river"
+  - fly-fishing-montana
+  - fly-fishing-the-mo
+  - missouri-river-fishing-report
+  - missouri-river-fly-fishing-guides
+  - montanas-missouri-river
 
 image:
   filename: featured.jpg

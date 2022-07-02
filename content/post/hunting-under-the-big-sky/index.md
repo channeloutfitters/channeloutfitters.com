@@ -1,9 +1,9 @@
 ---
-title: "Hunting Under The Big-Sky"
-date: "2016-02-09"
+title: Hunting Under The Big-Sky
+date: 2016-02-09T12:00:00.000Z
 tags:
-  - "fly-fishing-montana"
-  - "hunting-montana"
+  - fly-fishing-montana
+  - hunting-montana
 
 image:
   filename: featured.jpg

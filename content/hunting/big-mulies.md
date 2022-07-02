@@ -1,6 +1,6 @@
 ---
 widget: blank
-title: "Big Mulies are our specialty!"
+title: Big Mulies are our specialty!
 weight: 20
 design:
   columns: "1"

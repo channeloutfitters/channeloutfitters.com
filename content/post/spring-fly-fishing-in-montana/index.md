@@ -1,12 +1,12 @@
 ---
-title: "Spring Fly-Fishing In Montana"
-date: "2022-04-03"
+title: Spring Fly-Fishing In Montana
+date: 2022-04-03T12:00:00.000Z
 tags:
-  - "fly-fishing-montana"
-  - "missouri-river"
-  - "missouri-river-fishing-report"
-  - "missouri-river-fly-fishing-guides"
-  - "montanas-missouri-river"
+  - fly-fishing-montana
+  - missouri-river
+  - missouri-river-fishing-report
+  - missouri-river-fly-fishing-guides
+  - montanas-missouri-river
 
 image:
   filename: featured.jpg

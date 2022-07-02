@@ -1,14 +1,14 @@
 ---
-title: "Successful"
-date: "2022-04-19"
+title: Successful
+date: 2022-04-19T12:00:00.000Z
 tags:
-  - "big-montana-elk"
-  - "bull-mountain-elk"
-  - "eastern-montana-mule-deer-hunts"
-  - "montana-elk-hunts"
-  - "montana-mule-deer-hunts"
-  - "montana-rut-hunts"
-  - "trophy-mule-deer-hunts"
+  - big-montana-elk
+  - bull-mountain-elk
+  - eastern-montana-mule-deer-hunts
+  - montana-elk-hunts
+  - montana-mule-deer-hunts
+  - montana-rut-hunts
+  - trophy-mule-deer-hunts
 
 image:
   filename: featured.jpg

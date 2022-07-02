@@ -1,12 +1,12 @@
 ---
-title: "Part 2"
-date: "2021-03-12"
+title: Part 2
+date: 2021-03-12T12:00:00.000Z
 
 tags:
-  - "eastern-montana-mule-deer-hunts"
-  - "miles-city-montana-mule-deer-hunts"
-  - "montana-mule-deer-hunts"
-  - "trophy-mule-deer-hunts"
+  - eastern-montana-mule-deer-hunts
+  - miles-city-montana-mule-deer-hunts
+  - montana-mule-deer-hunts
+  - trophy-mule-deer-hunts
 
 image:
   filename: featured.jpg

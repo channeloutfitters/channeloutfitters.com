@@ -1,13 +1,13 @@
 ---
-title: "Hunting Eastern Montana"
-date: "2021-01-08"
+title: Hunting Eastern Montana
+date: 2021-01-08T12:00:00.000Z
 
 tags:
-  - "eastern-montana-mule-deer-hunts"
-  - "hunting-montana"
-  - "miles-city-montana-mule-deer-hunts"
-  - "montana-mule-deer-hunts"
-  - "upland-bird-hunts"
+  - eastern-montana-mule-deer-hunts
+  - hunting-montana
+  - miles-city-montana-mule-deer-hunts
+  - montana-mule-deer-hunts
+  - upland-bird-hunts
 
 image:
   filename: featured.jpg

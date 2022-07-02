@@ -1,14 +1,14 @@
 ---
-title: "Hunting Montana"
-date: "2022-02-17"
+title: Hunting Montana
+date: 2022-02-17T12:00:00.000Z
 tags:
-  - "big-montana-elk"
-  - "bow-hunting-montana"
-  - "eastern-montana-mule-deer-hunts"
-  - "hunting-montana"
-  - "miles-city-montana-mule-deer-hunts"
-  - "montana-mule-deer-hunts"
-  - "trophy-mule-deer-hunts"
+  - big-montana-elk
+  - bow-hunting-montana
+  - eastern-montana-mule-deer-hunts
+  - hunting-montana
+  - miles-city-montana-mule-deer-hunts
+  - montana-mule-deer-hunts
+  - trophy-mule-deer-hunts
 
 image:
   filename: featured.jpg

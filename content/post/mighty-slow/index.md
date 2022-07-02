@@ -1,10 +1,10 @@
 ---
-title: "Mighty Slow"
-date: "2015-08-24"
+title: Mighty Slow
+date: 2015-08-24T12:00:00.000Z
 
 tags:
-  - "fly-fishing-montana"
-  - "missouri-river"
+  - fly-fishing-montana
+  - missouri-river
 
 image:
   filename: featured.jpg

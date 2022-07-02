@@ -1,10 +1,10 @@
 ---
-title: "Big Ones"
-date: "2015-07-28"
+title: Big Ones
+date: 2015-07-28T12:00:00.000Z
 
 tags:
-  - "fly-fishing-montana"
-  - "missouri-river"
+  - fly-fishing-montana
+  - missouri-river
 
 image:
   filename: featured.jpg

@@ -1,13 +1,13 @@
 ---
-title: "Montana Mule Deer Hunts"
-date: "2015-03-14"
+title: Montana Mule Deer Hunts
+date: 2015-03-14T12:00:00.000Z
 
 tags:
-  - "eastern-montana-mule-deer-hunts"
-  - "hunting-montana"
-  - "miles-city-montana-mule-deer-hunts"
-  - "montana-rut-hunts"
-  - "trophy-mule-deer-hunts"
+  - eastern-montana-mule-deer-hunts
+  - hunting-montana
+  - miles-city-montana-mule-deer-hunts
+  - montana-rut-hunts
+  - trophy-mule-deer-hunts
 
 image:
   filename: featured.jpg

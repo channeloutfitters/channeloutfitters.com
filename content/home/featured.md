@@ -12,7 +12,7 @@ headless: true
 weight: 20
 active: false
 title: Featured
-subtitle: ""
+subtitle:
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -21,10 +21,10 @@ content:
   count: 0
   # Filter on criteria
   filters:
-    author: ""
-    category: ""
-    publication_type: ""
-    tag: ""
+    author:
+    category:
+    publication_type:
+    tag:
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 

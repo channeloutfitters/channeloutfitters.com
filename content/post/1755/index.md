@@ -1,6 +1,6 @@
 ---
 title: Farewell but not goodbye
-date: 2016-12-04
+date: 2016-12-04T12:00:00.000Z
 tags:
   - fly-fishing-montana
   - hunting-montana

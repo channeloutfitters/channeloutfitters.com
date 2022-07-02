@@ -1,11 +1,11 @@
 ---
-title: "Spring Fly-Fishing"
-date: "2022-03-29"
+title: Spring Fly-Fishing
+date: 2022-03-29T12:00:00.000Z
 tags:
-  - "fly-fishing-montana"
-  - "missouri-river"
-  - "missouri-river-fishing-report"
-  - "montanas-missouri-river"
+  - fly-fishing-montana
+  - missouri-river
+  - missouri-river-fishing-report
+  - montanas-missouri-river
 
 image:
   filename: featured.jpg

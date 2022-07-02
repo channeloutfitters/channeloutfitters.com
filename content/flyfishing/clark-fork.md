@@ -1,6 +1,6 @@
 ---
 widget: blank
-title: "Clark Fork River"
+title: Clark Fork River
 weight: 40
 design:
   columns: "1"

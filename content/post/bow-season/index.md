@@ -1,10 +1,10 @@
 ---
-title: "Bow Season"
-date: "2020-12-22"
+title: Bow Season
+date: 2020-12-22T12:00:00.000Z
 
 tags:
-  - "bow-hunts"
-  - "hunting-montana"
+  - bow-hunts
+  - hunting-montana
 
 image:
   filename: featured.jpg

@@ -1,10 +1,10 @@
 ---
-title: "August Fishing Report"
-date: "2015-08-08"
+title: August Fishing Report
+date: 2015-08-08T12:00:00.000Z
 
 tags:
-  - "fly-fishing-montana"
-  - "missouri-river"
+  - fly-fishing-montana
+  - missouri-river
 
 image:
   filename: featured.jpg

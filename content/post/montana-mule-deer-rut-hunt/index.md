@@ -1,12 +1,12 @@
 ---
-title: "Montana Mule Deer Rut Hunt"
-date: "2017-01-07"
+title: Montana Mule Deer Rut Hunt
+date: 2017-01-07T12:00:00.000Z
 
 tags:
-  - "eastern-montana-mule-deer-hunts"
-  - "hunting-montana"
-  - "montana-rut-hunts"
-  - "trophy-mule-deer-hunts"
+  - eastern-montana-mule-deer-hunts
+  - hunting-montana
+  - montana-rut-hunts
+  - trophy-mule-deer-hunts
 
 image:
   filename: featured.jpg

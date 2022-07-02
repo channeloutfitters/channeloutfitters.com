@@ -1,19 +1,17 @@
 ---
-title: "Big Buck"
-date: "2017-03-14"
+title: Big Buck
+date: 2017-03-14T12:00:00.000Z
 
 tags:
-  - "eastern-montana-mule-deer-hunts"
-  - "hunting-montana"
-  - "miles-city-montana-mule-deer-hunts"
-  - "montana-rut-hunts"
-  - "trophy-mule-deer-hunts"
+  - eastern-montana-mule-deer-hunts
+  - hunting-montana
+  - miles-city-montana-mule-deer-hunts
+  - montana-rut-hunts
+  - trophy-mule-deer-hunts
 
 image:
   filename: featured.jpg
 ---
-
-
 
 Some of you may have read the story of Mike's incredible buck in the latest issue of Eastman's Hunting Journal. Congratulations to the hunter Mike LaVoy on great Buck!
 

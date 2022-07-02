@@ -11,7 +11,7 @@ superuser: false
 role: Guide | Owner
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Holly is a second-generation outfitter and a very accomplished fly fisher and hunter in her own right. She loves to dry fly fish on the Missouri River and big game hunt in Eastern Montana. Holly is always ready to take your calls and answer questions when Lindsey is out on the road!"
+bio: Holly is a second-generation outfitter and a very accomplished fly fisher and hunter in her own right. She loves to dry fly fish on the Missouri River and big game hunt in Eastern Montana. Holly is always ready to take your calls and answer questions when Lindsey is out on the road!
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -34,7 +34,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: ""
+# email:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---

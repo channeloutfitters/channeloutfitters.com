@@ -1,6 +1,6 @@
 ---
 widget: blank
-title: "FlatHead River"
+title: FlatHead River
 weight: 50
 design:
   columns: "1"

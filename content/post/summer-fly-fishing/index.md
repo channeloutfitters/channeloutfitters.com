@@ -1,10 +1,10 @@
 ---
-title: "Summer Fly-Fishing"
-date: "2020-12-22"
+title: Summer Fly-Fishing
+date: 2020-12-22T12:00:00.000Z
 
 tags:
-  - "fly-fishing-montana"
-  - "missouri-river"
+  - fly-fishing-montana
+  - missouri-river
 
 image:
   filename: featured.jpg

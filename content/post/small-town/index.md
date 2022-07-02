@@ -1,10 +1,10 @@
 ---
-title: "Small Town"
-date: "2015-06-02"
+title: Small Town
+date: 2015-06-02T12:00:00.000Z
 tags:
-  - "fly-fishing-montana"
-  - "hunting-montana"
-  - "missouri-river"
+  - fly-fishing-montana
+  - hunting-montana
+  - missouri-river
 
 image:
   filename: featured.jpg

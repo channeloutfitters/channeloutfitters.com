@@ -1,15 +1,15 @@
 ---
-title: "Hunting The Rut"
-date: "2022-01-16"
+title: Hunting The Rut
+date: 2022-01-16T12:00:00.000Z
 tags:
-  - "big-bucks-of-northern-montana"
-  - "big-montana-bucks"
-  - "eastern-montana-mule-deer-hunts"
-  - "guided-mule-deer-hunts"
-  - "miles-city-montana-mule-deer-hunts"
-  - "montana-rut-hunts"
-  - "powder-river-montana"
-  - "trophy-mule-deer-hunts"
+  - big-bucks-of-northern-montana
+  - big-montana-bucks
+  - eastern-montana-mule-deer-hunts
+  - guided-mule-deer-hunts
+  - miles-city-montana-mule-deer-hunts
+  - montana-rut-hunts
+  - powder-river-montana
+  - trophy-mule-deer-hunts
 
 image:
   filename: featured.jpg
