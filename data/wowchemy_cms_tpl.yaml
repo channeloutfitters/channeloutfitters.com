@@ -32,7 +32,7 @@ collections:
         name: "authors"
         required: false
         widget: "list"
-      - label: "Tags"
+      - label: "Tags (Seperate multiple with commas)"
         name: "tags"
         required: false
         widget: "list"
