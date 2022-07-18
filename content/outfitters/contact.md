@@ -23,7 +23,7 @@ content:
     - icon: facebook
       icon_pack: fab
       name: Send me a Facebook message
-      link: http://m.me/channeloutfitters/
+      link: https://m.me/channeloutfitters/
   # Email form provider
   form:
     provider: netlify
