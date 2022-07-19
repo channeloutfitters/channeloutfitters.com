@@ -18,4 +18,4 @@ The buck jumped up and took off, guide looking at him and making sure this was a
 
 Frank was happy about Steve getting his first big one. Aaron was already thinking about where Frank's buck might be!
 
-![The Second Hunt](./The-Second-Hunt-1.jpg)
+![The Second Hunt](The-Second-Hunt-1.jpg)
