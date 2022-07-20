@@ -7,9 +7,6 @@ tags:
   - hunting-montana
   - montana-rut-hunts
   - trophy-mule-deer-hunts
-
-image:
-  filename: featured.jpg
 ---
 
 On with the next hunt story. This one is not a long drawn out hunt so I will give a little insight about the hunter. Tom Simpson has hunted with us several times. He comes out with a group from the great state of New Mexico. Tom is an expert gun guy! He shoots long distance with rifle and muzzleloaders. Tom is the real deal! He has a 1600 yard range on his property. Tom is also a mentor to many people, young and old.

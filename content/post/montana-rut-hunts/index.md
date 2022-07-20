@@ -8,9 +8,6 @@ tags:
   - miles-city-montana-mule-deer-hunts
   - montana-rut-hunts
   - trophy-mule-deer-hunts
-
-image:
-  filename: featured.jpg
 ---
 
 Well, here goes hunt story number two. My wife says that everyone loves these hunt stories. I don't really like to write the stories because it is hard to write sarcasm! This hunt took place about mid November. The deer were rutting hard but the Super Moon had showed up. The big moon plays a role in deer movement during the rut. The hunting had been stellar but I feared a big slow down due to the moon.

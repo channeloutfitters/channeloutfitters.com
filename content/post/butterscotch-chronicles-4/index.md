@@ -5,9 +5,6 @@ date: 2015-05-01T12:00:00.000Z
 tags:
   - fly-fishing-montana
   - missouri-river
-
-image:
-  filename: featured.jpg
 ---
 
 You might know by now, I like to fish! I like to throw myself or guiding people suits me just fine. I like to pursue "Big Gators! You know, the kind of fish you would expect in the " Butterscotch Chronicles!

@@ -8,9 +8,6 @@ tags:
   - miles-city-montana-mule-deer-hunts
   - montana-rut-hunts
   - trophy-mule-deer-hunts
-
-image:
-  filename: featured.jpg
 ---
 
 Some of you may have read the story of Mike's incredible buck in the latest issue of Eastman's Hunting Journal. Congratulations to the hunter Mike LaVoy on great Buck!

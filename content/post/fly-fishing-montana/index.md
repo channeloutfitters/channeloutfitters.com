@@ -7,9 +7,6 @@ tags:
   - missouri-river-fishing-report
   - missouri-river-fly-fishing-guides
   - montanas-missouri-river
-
-image:
-  filename: featured.jpg
 ---
 
 I had the pleasure to guide a client of mine who loves to fish with his family. Pat has 3 children and has taken all 3 kids on fly-fishing trips to Montana. The most recent trip he brought out his youngest. Jack is only 8 years old but was well up to the task. I let Jack use a fly-rod designed for youth fly-fishers "Redington Minnow. The rod is awesome for younger and smaller anglers! We did half day trips in order to keep Jack's attention up. All kids are different but Jack could have handled the full day trips.

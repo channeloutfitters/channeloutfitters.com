@@ -7,9 +7,6 @@ tags:
   - hunting-montana
   - montana-rut-hunts
   - trophy-mule-deer-hunts
-
-image:
-  filename: featured.jpg
 ---
 
 The first hunt I guided this season was with long time client Easy E. This was E's seventh trip with me. We have had some great hunts together! Our hunts have not always been smooth. Easy has some bad luck in regards to weather. He has hunted some terrible arctic cold front that have left him stranded. E's hunts have been earlier every year, in hopes of better weather. This year wouldn't you know, it rained one and a half inches on his second day. Some of you may know that rain is worst scenario in eastern Montana, do to the gumbo mud that we have in the soil.

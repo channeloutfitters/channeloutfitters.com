@@ -7,9 +7,6 @@ tags:
   - miles-city-montana-mule-deer-hunts
   - montana-rut-hunts
   - northeast-montana
-
-image:
-  filename: featured.jpg
 ---
 
 Hunt number two last season was a good one. A cool old guy named Frank, who also purchased a hunt for his nephew came out around November 2. The hunt was about getting Steve on a nice buck. As it sometimes happens, things went well out of the gate. Super guide Aaron spotted a good one from a distance. The pursuit was on and Aaron got in the spot perfectly. When the boys crept over the hill the buck was super close. You could say to close for the buck to handle.

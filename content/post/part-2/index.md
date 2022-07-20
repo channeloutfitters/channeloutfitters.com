@@ -7,9 +7,6 @@ tags:
   - miles-city-montana-mule-deer-hunts
   - montana-mule-deer-hunts
   - trophy-mule-deer-hunts
-
-image:
-  filename: featured.jpg
 ---
 
 After Melody shot her big whitetail, it was time for hubby to get his. Mark was looking for a mule deer and we were confident. We headed west that morning with the rising sun in our favor. Driving the creek bottom, it didn't take long to tell that all the deer were up on the tops. We spotted several bucks in the first 15 minutes. As we winded down the road, we spotted two bucks sky-lined, they had a doe. A quick look through my spotting scope and I could see really nice front forks! I say it's a shooter!

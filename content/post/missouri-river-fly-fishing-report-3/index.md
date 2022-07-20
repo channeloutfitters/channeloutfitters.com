@@ -5,9 +5,6 @@ date: 2016-07-01T12:00:00.000Z
 tags:
   - fly-fishing-montana
   - missouri-river
-
-image:
-  filename: featured.jpg
 ---
 
 June is over and what a month it was.! Hatches were strong and fish were up on them if you know where to look. July looks good, we still have some mayflies. The caddis are getting very strong! I seen many fish up on the caddis yesterday and many wade fishers were on the attack. It is the season for high river usage of non fisherman. Unfortunately we can not detain them, expect stupidity!

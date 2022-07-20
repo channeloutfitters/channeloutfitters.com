@@ -5,9 +5,6 @@ date: 2020-12-21T12:00:00.000Z
 tags:
   - fly-fishing-montana
   - missouri-river
-
-image:
-  filename: featured.jpg
 ---
 
 June is by far the best month of dry-fly fishing on Montana's Missouri River. The only downside to June fishing is the possibility of high water. What makes June so great? It's the hatches! In June the water temps come up to the optimum water temperatures for hatches. On the Missouri River we have massive hatches of mayflies and caddis at the same time. The big fish that reside there loose caution and eat bugs off the surface. When I have anglers with at least decent ability to cast we will tangle with big Brown Trout daily!

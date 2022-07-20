@@ -7,9 +7,6 @@ tags:
   - hunting-montana
   - montana-rut-hunts
   - trophy-mule-deer-hunts
-
-image:
-  filename: featured.jpg
 ---
 
 This story is about the second hunt I guided in 2019. The hunter was Jerry, he was new to our outfit. Jerry was a real good guy and easy to get along with. It's nice when you have a hunter who takes in the whole experience, not just the killing part. Jerry really never told me what kind of buck he wanted but would always comment on how nice each buck we seen looked. On day three we had -17 and some snow. The snow made it hard to spot deer from a distance. Once we got to my favorite lookout perch I spotted what looked to be a heavy horned deer, one with some age.

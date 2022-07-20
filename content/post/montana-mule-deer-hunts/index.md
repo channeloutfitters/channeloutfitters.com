@@ -8,9 +8,6 @@ tags:
   - miles-city-montana-mule-deer-hunts
   - montana-rut-hunts
   - trophy-mule-deer-hunts
-
-image:
-  filename: featured.jpg
 ---
 
 It's all about the Mule Deer. The king of deer! This is a quick account of a great deer taken by one of our hunters last year. The hunter was a good guy named Scot. He had killed a giant of a Montana muley a few years back. Scot has the right mentality to get a big deer, he excepts all or nothing.

@@ -8,9 +8,6 @@ tags:
   - miles-city-montana-mule-deer-hunts
   - montana-mule-deer-hunts
   - upland-bird-hunts
-
-image:
-  filename: featured.jpg
 ---
 
 Hunting out in the big wide open is some fun stuff. Eastern Montana has some awesome deer habitat! We are fortunate to Lease some great ranches that have the habitat and genetics. We try and do our part by harvesting old deer and on occasion we take out the ones with dad genetics. Big mule deer are in high demand. With too many people and not enough area or tags for everyone this deer thing is popular! All that said, Good deer are where you find them.

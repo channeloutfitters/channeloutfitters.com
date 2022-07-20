@@ -8,9 +8,6 @@ tags:
   - miles-city-montana-mule-deer-hunts
   - montana-rut-hunts
   - trophy-mule-deer-hunts
-
-image:
-  filename: featured.jpg
 ---
 
 My wife says I should do the hunt stories again. For those of you who don't know, the hunt stories are an account of the hunts that I guided. After the first year I did the stories, I realized it was a lot of blogging. Due to pressure from wife, hunters, and thousands of fans, here we go.

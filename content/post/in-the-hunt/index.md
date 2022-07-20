@@ -7,9 +7,6 @@ tags:
   - hunting-montana
   - montana-rut-hunts
   - trophy-mule-deer-hunts
-
-image:
-  filename: featured.jpg
 ---
 
 This is a very brief hunting story due to the nature of the hunt. The guy with the gorgeous mulie is Kevin. Kevin contacted us late in the summer and was able to connect with some of the leftover tags. The only spot I had open for Kevin was to be paired with another hunter on a 2 on 1 scenario. I generally do not like to get involved with pairing strangers, but Kevin was game!
