@@ -3,7 +3,7 @@ command = "hugo --gc --minify -b $URL"
 publish = "public"
 
 [build.environment]
-GO_VERSION = "1.19.0"
+GO_VERSION = "1.19"
 HUGO_VERSION = "0.102.3"
 
 [context.production.environment]
