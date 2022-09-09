@@ -81,12 +81,12 @@ features:
     commento:
       url: ""
   search:
-    provider: wowchemy
+    provider: "algolia"
     algolia:
-      app_id: ""
-      api_key: ""
-      index_name: ""
-      show_logo: false
+      app_id: "Y77NSTCR95"
+      api_key: "4f19074ff38d0915f53df421e0241734"
+      index_name: "webpage"
+      show_logo: true
   map:
     provider: ""
     api_key: ""
