@@ -2,22 +2,32 @@ backend:
   name: git-gateway
   branch: main
   squash_merges: true
-media_folder: 'assets/media'
-public_folder: '/media'
+media_folder: "assets/media"
+public_folder: "/media"
 collections:
   - name: posts
     label: Posts
     label_singular: Post
-    folder: 'content/post'
-    path: '{{year}}-{{month}}-{{day}}_{{slug}}/index'
-    filter: {field: "cms_exclude"}
-    create: true  # Allow users to create new documents in this collection
-    fields:  # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Subtitle", name: "subtitle", widget: "string", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Publish this page on", name: "date", widget: "datetime"}
-      - {label: "Summary", name: "summary", widget: "markdown", required: false}
+    folder: "content/post"
+    path: "{{year}}-{{month}}-{{day}}_{{slug}}/index"
+    filter: { field: "cms_exclude" }
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Subtitle",
+          name: "subtitle",
+          widget: "string",
+          required: false,
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Publish this page on", name: "date", widget: "datetime" }
+      - {
+          label: "Summary",
+          name: "summary",
+          widget: "markdown",
+          required: false,
+        }
       - label: "Draft"
         name: "draft"
         widget: "boolean"
@@ -49,6 +59,17 @@ collections:
             media_library:
               config:
                 multiple: false
-          - {label: Caption, name: caption, widget: string, required: false}
-          - {label: Description for screen readers, name: alt_text, widget: string, required: false}
-          - {label: 'Thumbnail Only?', name: preview_only, widget: boolean, default: false, required: false}
+          - { label: Caption, name: caption, widget: string, required: false }
+          - {
+              label: Description for screen readers,
+              name: alt_text,
+              widget: string,
+              required: false,
+            }
+          - {
+              label: "Thumbnail Only?",
+              name: preview_only,
+              widget: boolean,
+              default: false,
+              required: false,
+            }

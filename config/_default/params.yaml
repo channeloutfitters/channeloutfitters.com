@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: channel
-  theme_night: 
+  theme_night:
   font: minimal
   font_size: l
 
@@ -16,15 +16,15 @@ appearance:
 marketing:
   seo:
     site_type: LocalBusiness
-    local_business_type: 'ProfessionalService'
+    local_business_type: "ProfessionalService"
     org_name: Channel Outfitters
     description: Montana's premier outfitter. We specialize in high quality fly fishing trips and mule deer hunts.
   analytics:
-    google_analytics: 'G-MC4WS5RK6X'
-    baidu_tongji: ''
+    google_analytics: "G-MC4WS5RK6X"
+    baidu_tongji: ""
   verification:
-    google: ''
-    baidu: ''
+    google: ""
+    baidu: ""
 
 # Site header
 
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Channel Outfitters. This work is licensed under {license}'
+    notice: "© {year} Channel Outfitters. This work is licensed under {license}"
     license:
       enable: true
       allow_derivatives: true
@@ -53,8 +53,8 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: "Jan 2, 2006"
+  time_format: "3:04 PM"
   address_format: en-us
 
 # Site features
@@ -67,29 +67,29 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/channeloutfitters/channeloutfitters.com'
+    url: "https://github.com/channeloutfitters/channeloutfitters.com"
     content_dir: content
     branch: main
   avatar:
     gravatar: false
     shape: circle
   comment:
-    provider: ''
+    provider: ""
     disqus:
-      shortname: ''
+      shortname: ""
       show_count: true
     commento:
-      url: ''
+      url: ""
   search:
     provider: wowchemy
     algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
+      app_id: ""
+      api_key: ""
+      index_name: ""
       show_logo: false
   map:
-    provider: ''
-    api_key: ''
+    provider: ""
+    api_key: ""
     zoom: 15
 
 extensions:

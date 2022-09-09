@@ -5,21 +5,20 @@
 
 main:
   - name: About Us
-    url: '/outfitters/'
+    url: "/outfitters/"
     weight: 10
   - name: Fly Fishing
-    url: '/flyfishing/'
+    url: "/flyfishing/"
     weight: 20
   - name: Hunting
-    url: '/hunting/'
+    url: "/hunting/"
     weight: 30
   - name: Links
-    url: '/links/'
+    url: "/links/"
     weight: 40
   - name: Gallery
-    url: '/gallery/'
+    url: "/gallery/"
     weight: 50
   - name: Blog
-    url: '/post/'
+    url: "/post/"
     weight: 60
-  
