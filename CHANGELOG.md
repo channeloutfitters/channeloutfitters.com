@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/channeloutfitters/channeloutfitters.com/compare/v1.0.0...v1.0.1) (2022-10-29)
+
+
+### Bug Fixes
+
+* update mod versions ([7e57551](https://github.com/channeloutfitters/channeloutfitters.com/commit/7e57551709b15385f62465de1e35c2fa892388ff))
+
 ## 1.0.0 (2022-10-10)
 
 
