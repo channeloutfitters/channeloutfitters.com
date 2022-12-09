@@ -8,10 +8,10 @@ title: Holly Channel
 superuser: false
 
 # Role/position
-role: Guide | Owner
+role: Owner
 
 # Short bio (displayed in user profile at end of posts)
-bio: Holly is a second-generation outfitter and a very accomplished fly fisher and hunter in her own right. She loves to dry fly fish on the Missouri River and big game hunt in Eastern Montana. Holly is always ready to take your calls and answer questions when Lindsey is out on the road!
+bio: Holly is a second-generation outfitter and a very accomplished fly fisher and hunter in her own right. She loves to dry fly fish on the Missouri River and big game hunt in Eastern Montana. Holly is always here to take your calls for scheduling, logistics, and general information.  Holly can make your vacation next level!!
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -39,4 +39,4 @@ social:
 highlight_name: true
 ---
 
-Holly is a second-generation outfitter and a very accomplished fly fisher and hunter in her own right. She loves to dry fly fish on the Missouri River and big game hunt in Eastern Montana. Holly is always ready to take your calls and answer questions when Lindsey is out on the road!
+Holly is a second-generation outfitter and a very accomplished fly fisher and hunter in her own right. She loves to dry fly fish on the Missouri River and big game hunt in Eastern Montana. Holly is always here to take your calls for scheduling, logistics, and general information. Holly can make your vacation next level!!

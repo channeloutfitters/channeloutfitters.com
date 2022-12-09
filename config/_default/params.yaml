@@ -17,7 +17,7 @@ marketing:
   seo:
     site_type: LocalBusiness
     local_business_type: "ProfessionalService"
-    org_name: Channel Outfitters
+    org_name: Channel Outfitters, LLC
     description: Montana's premier outfitter. We specialize in high quality fly fishing trips and mule deer hunts.
   analytics:
     google_analytics: "G-MC4WS5RK6X"
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: "© {year} Channel Outfitters. This work is licensed under {license}"
+    notice: "© {year} Channel Outfitters, LLC. | Montana Outfitter #7886 | This work is licensed under {license}"
     license:
       enable: true
       allow_derivatives: true

@@ -1,7 +1,7 @@
 ---
 title: Posts
 cms_exclude: true
-view: showcase
+view: 2
 
 aliases: blog
 ---
