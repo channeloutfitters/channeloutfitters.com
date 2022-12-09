@@ -21,7 +21,7 @@ content:
         fit: cover
     - align: center
       background:
-        media: albums/scenery/overlook.jpeg
+        media: albums/scenery/overlook.jpg
         fit: cover
     - align: center
       background:
