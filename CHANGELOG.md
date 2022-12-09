@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.0](https://github.com/channeloutfitters/channeloutfitters.com/compare/v1.0.1...v1.1.0) (2022-12-09)
+
+
+### Features
+
+* add scenery ([822bc67](https://github.com/channeloutfitters/channeloutfitters.com/commit/822bc67d82478ff3f8abc25b737c89156b2a2d9d))
+* changes to multiple pages ([b41d472](https://github.com/channeloutfitters/channeloutfitters.com/commit/b41d4722a638367f9d5e908d999179adf6c20805))
+
 ## [1.0.1](https://github.com/channeloutfitters/channeloutfitters.com/compare/v1.0.0...v1.0.1) (2022-10-29)
 
 
