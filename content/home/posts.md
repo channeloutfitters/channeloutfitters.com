@@ -24,7 +24,7 @@ content:
     category:
     publication_type:
     author:
-    exclude_featured: true
+    exclude_featured: false
     exclude_future: false
     exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
@@ -38,6 +38,6 @@ content:
 
 design:
   # Choose a view for the listings:
-  view: showcase
+  view: compact
   columns: "1"
 ---

@@ -9,7 +9,7 @@ weight: 10
 
 ## **Come check out some of our adventures!**
 
-### They say a picture is worth a thousand words.
+### They say a picture is worth a thousand words
 
 - [Fishing](#fishing)
 

@@ -1,10 +1,5 @@
 {
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged",
-      "pre-push": "lint-staged"
-    }
-  },
+  "version": "1.0.1",
   "scripts": {
     "build": "run-s build:hugo",
     "clean:hugo": "rimraf hugo{.log,_stats.json} resources public assets/jsconfig.json .hugo_build.lock _vendor",
@@ -15,11 +10,34 @@
     "_start:_hugo": "./shoginn_scripts/bin/build/hugo.sh",
     "build:hugo": "cross-env SHOGINN_SCRIPTS_BUILD_HUGO=1 run-s clean:hugo _start:_hugo"
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged",
+      "pre-push": "lint-staged"
+    }
+  },
   "lint-staged": {
     "*.md": [
       "prettier --parser markdown --write",
       "cspell"
     ]
+  },
+  "dependencies": {
+    "@fullhuman/postcss-purgecss": "^5.0.0",
+    "postcss": "^8.4.19",
+    "postcss-cli": "^10.1.0"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "cspell": "^6.17.0",
+    "html-validate": "^7.10.1",
+    "html-validate-markdown": "^3.0.0",
+    "husky": "^8.0.2",
+    "lint-staged": "^13.1.0",
+    "npm-run-all": "^4.1.5",
+    "prettier": "^2.8.1",
+    "rimraf": "^3.0.2",
+    "run-script-os": "^1.1.6"
   },
   "cspell": {
     "ignoreWords": [
@@ -65,6 +83,7 @@
       "deadsville",
       "dumbass",
       "Flyfishing",
+      "fullscreen",
       "Josephy",
       "Kev's",
       "Lavoy",
@@ -90,23 +109,5 @@
       "Weatherby",
       "Westslope"
     ]
-  },
-  "devDependencies": {
-    "cross-env": "^7.0.3",
-    "cspell": "^6.12.0",
-    "html-validate": "^7.5.0",
-    "html-validate-markdown": "^3.0.0",
-    "husky": "^8.0.1",
-    "lint-staged": "^13.0.3",
-    "npm-run-all": "^4.1.5",
-    "prettier": "^2.7.1",
-    "rimraf": "^3.0.2",
-    "run-script-os": "^1.1.6"
-  },
-  "dependencies": {
-    "@fullhuman/postcss-purgecss": "^5.0.0",
-    "postcss": "^8.4.17",
-    "postcss-cli": "^10.0.0"
-  },
-  "version": "1.0.1"
+  }
 }
